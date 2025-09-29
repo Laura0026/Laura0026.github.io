@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(206, 171, 218);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 40px
+    
+}
+
+h1{
+    text-decoration-line: underline;
+    font-size: 45px;
+    color: rgb(108, 28, 184);
+}
+h2{
+    text-decoration-line: underline;
+    font-size: 28px;
+    color: rgb(216, 105, 238);
+    border: 2px dotted purple;
+}
+
+.destacado{
+    background-color: rgb(153, 77, 224);
+}
+
+#subrayado{
+    text-decoration: underline blueviolet;
+}
+
+#subrayadodestacado{
+    text-decoration: underline;
+    background-color: blueviolet;
+    
+}
